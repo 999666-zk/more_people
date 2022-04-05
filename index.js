@@ -5,3 +5,7 @@ function test() {
 function add() {
   console.log("is hello world");
 }
+
+function big() {
+  console.log("big_test");
+}

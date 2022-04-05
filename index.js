@@ -9,3 +9,7 @@ function add() {
 function big() {
   console.log("big_test");
 }
+
+function fuck() {
+  console.log("fuck");
+}

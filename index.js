@@ -9,3 +9,6 @@ function add() {
 function sum() {
   console.log("this function is nums sum");
 }
+function big() {
+  console.log("hhah");
+}

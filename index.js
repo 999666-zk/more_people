@@ -5,3 +5,7 @@ function test() {
 function add() {
   console.log("is hello world");
 }
+
+function sum() {
+  console.log("this function is nums sum");
+}
